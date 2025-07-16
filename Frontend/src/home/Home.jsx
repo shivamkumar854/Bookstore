@@ -8,7 +8,7 @@ function Home() {
   return (
     <>
       <Navbar />
-      <Banner />
+      <Banner /> {/* Assuming Banner is a component that displays the main banner or hero section */}
       <Freebook />
       <Footer />
     </>
